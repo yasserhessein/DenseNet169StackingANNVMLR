@@ -7,4 +7,5 @@ This study investigates the classification performance of the DenseNet169Stackin
 
 
 
-![image.png](attachment:595885a5-7115-4f2d-9adf-974ac3d25d74.png)
+<img width="1687" height="690" alt="image" src="https://github.com/user-attachments/assets/5341a6a7-af09-4d16-9a1e-f53a92a4c5ac" />
+
